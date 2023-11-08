@@ -1,6 +1,6 @@
 # Sport-Shop "E-Commerce"
 ### Languages And Tools.
-<hr/>
+
 * HTML.
 * Sass.
 * JavaScript.
@@ -8,6 +8,6 @@
 * Deployment.
 
 
-<img src*"assets/images/github.png"/>
+<img src="assets/images/github.png"/>
 
 
